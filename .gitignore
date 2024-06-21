@@ -3,3 +3,8 @@
 ################################################################################
 
 /CoreLearning/.vs
+/CoreLearning/bin/Debug/
+/CoreLearning/obj/Debug/net8.0/ref
+/CoreLearning/obj/Debug/net8.0/refint
+/CoreLearning/obj/Debug/net8.0/staticwebassets
+/CoreLearning/obj/Debug/net8.0
