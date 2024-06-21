@@ -1,0 +1,6 @@
+@CoreLearning_HostAddress = http://localhost:5161
+
+GET {{CoreLearning_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
